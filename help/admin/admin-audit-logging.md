@@ -8,17 +8,17 @@ exl-id: ff68f90f-b521-4560-9bf6-a7a6a588adf9
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
 # 감사 로깅 {#audit-logging}
 
-사용 [!UICONTROL  Audit Logging] 고객 문제를 디버깅할 때 가장 먼저 이동해야 하는 위치입니다.
+고객 문제를 디버깅할 때 [!UICONTROL  Audit Logging]을(를) 첫 번째 위치로 사용하십시오.
 
 >[!NOTE]
 >
->다음 [!UICONTROL Audit Logging] 기능 및 설명서는 현재 개발 중이고 변경될 수 있습니다. 에서 발생하는 모든 문제를 기록하십시오. [!DNL JIRA] ([!DNL UI] 팀).
+>[!UICONTROL Audit Logging] 기능 및 설명서는 현재 개발 중이고 변경될 수 있습니다. [!DNL JIRA]([!DNL UI] 팀)에서 발생하는 모든 문제를 기록하십시오.
 
 ![감사 로깅 보기](assets/audit-logging-img.png)
 

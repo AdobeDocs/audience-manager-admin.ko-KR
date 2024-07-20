@@ -7,8 +7,8 @@ uuid: 4534b622-4c8d-4c42-8019-1614faaba9d6
 exl-id: 27316802-9c98-41f5-af3e-edc11e572e29
 source-git-commit: e12731066834df18b44e6737fe8c1264d316f7fd
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 75%
+source-wordcount: '182'
+ht-degree: 83%
 
 ---
 
@@ -18,7 +18,7 @@ Audience Manager 관리 도구를 사용하여 회사, 서버, 보고서, 형식
 
 >[!IMPORTANT]
 >
-> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 다음으로 이동하십시오. [Audience Manager 안내서 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
+> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 [Audience Manager 가이드 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)로 이동하십시오.
 
 <table id="table_882B0982144442F79328A4FA45BD5C7E" frame="none"> 
  <tbody> 

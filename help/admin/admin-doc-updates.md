@@ -7,7 +7,7 @@ uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
 exl-id: 8221b4df-99c2-47d3-a2ea-186a701a2b20
 source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '583'
 ht-degree: 94%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 94%
 
 Audience Manager 관리 가이드에 대한 날짜별 모든 업데이트(추가, 삭제 및 수정 사항)입니다.
 
-기능 릴리스, 개선 사항 및 버그 수정에 대한 자세한 내용은 [Experience Cloud 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)를 참조하십시오. 대상 [!DNL Audience Manager] 설명서 변경 내용, 참조 [설명서 업데이트 정보](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=en).
+기능 릴리스, 개선 사항 및 버그 수정에 대한 자세한 내용은 [Experience Cloud 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)를 참조하십시오. [!DNL Audience Manager] 설명서 변경 내용에 대해서는 [설명서 업데이트](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=en)를 참조하세요.
 
 ## AAM 2019 설명서 업데이트 {#aam-2019-docs-updates}
 

@@ -7,8 +7,8 @@ uuid: 9ba84a90-e596-4aca-9bf7-f7dcf5c1cca5
 exl-id: cd70bc34-7bd3-4e7e-a2c0-af29608e2438
 source-git-commit: e12731066834df18b44e6737fe8c1264d316f7fd
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 43%
+source-wordcount: '136'
+ht-degree: 36%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 43%
 
 >[!IMPORTANT]
 >
-> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 다음으로 이동하십시오. [Audience Manager 안내서 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)
+> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 [Audience Manager 가이드 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)로 이동하십시오.
 
 <!-- t_login.xml -->
 
-1. Audience Manager 액세스 [!DNL Admin] 도구: [!DNL URL]: [https://admin.demdex.com/](https://admin.demdex.com/).
-1. 드롭다운 상자에서 원하는 인증 방법을 선택하고 을(를) 클릭합니다. **[!UICONTROL Verify]**.
+1. 다음 [!DNL URL](으)로 이동하여 Audience Manager [!DNL Admin] 도구에 액세스하십시오. [https://admin.demdex.com/](https://admin.demdex.com/).
+1. 드롭다운 상자에서 원하는 인증 방법을 선택하고 **[!UICONTROL Verify]**&#x200B;을(를) 클릭합니다.

@@ -8,21 +8,21 @@ exl-id: 132a8e40-8001-4a49-9304-82e852ee28fd
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 12%
+ht-degree: 0%
 
 ---
 
 # 파일 형식 매크로 예제 {#file-format-macro-examples}
 
-매크로를 사용하여 아웃바운드를 만드는 방법의 예입니다. [!DNL FTP] 파일 템플릿.
+아웃바운드, [!DNL FTP] 파일 템플릿을 만드는 데 매크로를 사용하는 방법의 예입니다.
 
 >[!NOTE]
 >
->테이블에서, **굵은 활자** type은 관련된 출력으로 각 매크로를 식별합니다. 형식 예제의 경우 &lt; > 기호를 추가하여 각 매크로를 시각적으로 구분했습니다.
+>테이블에서 **boldface** 형식은 관련 출력으로 각 매크로를 식별합니다. 형식 예제의 경우 &lt; > 기호를 추가하여 각 매크로를 시각적으로 구분했습니다.
 
 ## 일반 매크로 {#common-macros}
 
-이러한 매크로는 모든 형식 필드에서 사용할 수 있습니다. 다음을 참조하십시오. [파일 형식 매크로](../formats/file-formats.md) 전체 목록 및 정의.
+이러한 매크로는 모든 형식 필드에서 사용할 수 있습니다. 전체 목록 및 정의를 보려면 [파일 형식 매크로](../formats/file-formats.md)를 참조하십시오.
 
 <table id="table_B5073597219B470298EE614902DACAE8"> 
  <thead> 
@@ -70,7 +70,7 @@ ht-degree: 12%
 
 ## 헤더 필드 매크로 {#header-field-macros}
 
-헤더 필드에만 사용되는 매크로입니다. 다음을 참조하십시오. [파일 형식 매크로](../formats/file-formats.md) 전체 목록 및 정의.
+헤더 필드에만 사용되는 매크로입니다. 전체 목록 및 정의를 보려면 [파일 형식 매크로](../formats/file-formats.md)를 참조하십시오.
 
 <table id="table_ABC31B3D660D47969E111EBC734D5BBC"> 
  <thead> 
@@ -89,7 +89,7 @@ ht-degree: 12%
 
 ## 데이터 행 매크로 {#data-row-macros}
 
-헤더 필드에만 사용되는 매크로입니다. 다음을 참조하십시오. [파일 형식 매크로](../formats/file-formats.md) 전체 목록 및 정의.
+헤더 필드에만 사용되는 매크로입니다. 전체 목록 및 정의를 보려면 [파일 형식 매크로](../formats/file-formats.md)를 참조하십시오.
 
 <table id="table_408C6DD2B9D54550B003EAC93562E64F"> 
  <thead> 

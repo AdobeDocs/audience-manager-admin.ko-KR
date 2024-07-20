@@ -8,15 +8,15 @@ exl-id: 1f8ccbf3-241d-4bd9-8c35-cf68b12d2713
 source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 12%
+ht-degree: 0%
 
 ---
 
 # HTTP 형식 매크로 예제 {#http-format-macro-examples}
 
-일반적으로 사용되는 몇 가지 예시 [!DNL HTTP] 매크로 조합.
+일반적으로 사용되는 [!DNL HTTP] 매크로 조합의 예입니다.
 
-다음을 참조하십시오. [HTTP 형식 매크로](../formats/web-formats.md) 매크로 및 매크로 정의 목록입니다.
+매크로 목록 및 해당 정의에 대해서는 [HTTP 형식 매크로](../formats/web-formats.md)를 참조하십시오.
 
 <table id="table_D5FAC5D056ED49D79FA883197EF8F42E"> 
  <thead> 
@@ -137,7 +137,7 @@ ht-degree: 12%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>&lt;if(user.segments &amp;&amp; user.removedSegments)&gt;&lt;COMMA&gt;&lt;endif&gt;</code> </p> </td> 
-   <td colname="col2"> <p>필드에 쉼표를 인쇄합니다. <code>segments</code> 및 <code>removedSegments</code> 비어 있지 않습니다. 이 조건부 값은 세그먼트 및 제거된 세그먼트에 대한 목록을 연결할 때 POST 요청에 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p><code>segments</code> 및 <code>removedSegments</code> 필드가 비어 있지 않으면 쉼표를 인쇄합니다. 이 조건부 값은 세그먼트 및 제거된 세그먼트에 대한 목록을 연결할 때 POST 요청에 사용할 수 있습니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>
