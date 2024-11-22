@@ -5,7 +5,7 @@ seo-title: Create or Edit an FTP Server
 title: FTP 서버 만들기 또는 편집
 uuid: 9273abb2-963d-4d83-bf5a-b3817f0b90e6
 exl-id: 9eae4ecf-ccde-483a-ae53-1cbac033d8d6
-source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
+source-git-commit: 8af040e49b881302315e0b66baa73db47c5eee28
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 1%
@@ -41,7 +41,7 @@ Audience Manager 관리 도구의 [!UICONTROL Servers] 페이지를 사용하여
 
    >[!NOTE]
    >
-   >**52.44.29.204** 허용 IP 목록에 이그레스 [!DNL FTP] [!DNL IP]을(를) 추가해야 합니다.
+   >**54.204.116.43** 허용 IP 목록에 이그레스 [!DNL FTP] [!DNL IP]을(를) 추가해야 합니다.
 
 1. **[!UICONTROL SSH Key]** 인증:
    >[!NOTE]
