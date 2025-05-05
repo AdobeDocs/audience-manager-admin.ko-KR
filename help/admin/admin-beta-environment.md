@@ -24,9 +24,9 @@ ht-degree: 2%
 | 서비스 | URL/호스트 이름 | 프로비저닝 단계 |
 |--- |--- |--- |
 | S3 | | [Amazon S3 버킷 프로비전](admin-beta-environment.md#provision-s3-buckets)을 참조하십시오. |
-| DCS | https&amp;colon;//dcs-beta.demdex.net/... | 우리 쪽에서 별도의 단계는 필요하지 않습니다. [Beta 환경에서 DCS에 액세스](admin-beta-environment.md#access-dcs-beta-environment)를 참조하십시오. |
-| UI | https&amp;colon;//bank-beta.demdex.com | 데이터는 매월 프로덕션에서 Beta 환경으로 복사됩니다. 프로덕션 자격 증명은 Beta에 유효합니다. |
-| API | https&amp;colon;//api-beta.demdex.com/... | 데이터는 매월 프로덕션에서 Beta 환경으로 복사됩니다. 프로덕션 자격 증명은 Beta에 유효합니다. |
+| DCS | https&colon;//dcs-beta.demdex.net/... | 우리 쪽에서 별도의 단계는 필요하지 않습니다. [Beta 환경에서 DCS에 액세스](admin-beta-environment.md#access-dcs-beta-environment)를 참조하십시오. |
+| UI | https&colon;//bank-beta.demdex.com | 데이터는 매월 프로덕션에서 Beta 환경으로 복사됩니다. 프로덕션 자격 증명은 Beta에 유효합니다. |
+| API | https&colon;//api-beta.demdex.com/... | 데이터는 매월 프로덕션에서 Beta 환경으로 복사됩니다. 프로덕션 자격 증명은 Beta에 유효합니다. |
 
 ## Amazon S3 버킷 프로비저닝 {#provision-s3-buckets}
 

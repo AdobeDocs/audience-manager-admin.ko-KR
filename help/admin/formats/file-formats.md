@@ -105,7 +105,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>CLOSE_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>닫는 중괄호 <code>}</code> 문자를 삽입합니다. </p> </td> 
+   <td colname="col2"> <p>닫는 중괄호 <code>&rbrace;</code> 문자를 삽입합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>COMMA</code> </p> </td> 
@@ -137,7 +137,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPEN_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>여는 중괄호 <code>{</code> 문자를 삽입합니다. </p> </td> 
+   <td colname="col2"> <p>여는 중괄호 <code>&lbrace;</code> 문자를 삽입합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPT_OUT</code> </p> </td> 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 아웃바운드에 대한 Hadoop 시퀀스 파일 전송 활성화 {#enable-hadoop-sequence-file-transfers-for-outbound}
 
-Audience Manager 고객에 대해 이진 [!DNL Hadoop Sequence Files]([!DNL SEQ]) 아웃바운드 배치 전송을 사용하도록 설정할 수 있습니다.
+Audience Manager 고객에 대해 이진 [!DNL Hadoop Sequence Files] ([!DNL SEQ]) 아웃바운드 배치 전송을 사용하도록 설정할 수 있습니다.
 
 [!DNL SEQ]개의 아웃바운드 파일 전송을 사용하려면:
 

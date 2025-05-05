@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # 감사 로깅 {#audit-logging}
 
-고객 문제를 디버깅할 때 [!UICONTROL  Audit Logging]을(를) 첫 번째 위치로 사용하십시오.
+고객 문제를 디버깅할 때 [!UICONTROL &#x200B; Audit Logging]을(를) 첫 번째 위치로 사용하십시오.
 
 >[!NOTE]
 >
->[!UICONTROL Audit Logging] 기능 및 설명서는 현재 개발 중이고 변경될 수 있습니다. [!DNL JIRA]([!DNL UI] 팀)에서 발생하는 모든 문제를 기록하십시오.
+>[!UICONTROL Audit Logging] 기능 및 설명서는 현재 개발 중이고 변경될 수 있습니다. [!DNL JIRA] ([!DNL UI] 팀)에서 발생하는 모든 문제를 기록하십시오.
 
 ![감사 로깅 보기](assets/audit-logging-img.png)
 

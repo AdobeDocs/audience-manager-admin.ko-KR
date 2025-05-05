@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # Media Optimizer와 ID 동기화 {#id-syncing-with-media-optimizer}
 
-기본적으로 모든 회사는 데이터를 [!DNL Adobe Media Optimizer]([!DNL AMO])과(와) 동기화합니다. [!UICONTROL Admin UI]에서 각 회사 컨테이너에는 이 프로세스를 관리하는 데이터 원본이 있습니다. 이 데이터 원본은 [!UICONTROL Adobe AMO]([!UICONTROL ID] 411)입니다. 선택한 회사의 컨테이너 행([!UICONTROL Containers] 탭 아래)을 클릭하여 이 기본 동기화를 사용하지 않도록 설정하거나 [!DNL AMO] 동기화 프로세스에 다른 데이터 원본을 추가하고 제거하십시오.
+기본적으로 모든 회사는 데이터를 [!DNL Adobe Media Optimizer] ([!DNL AMO])과(와) 동기화합니다. [!UICONTROL Admin UI]에서 각 회사 컨테이너에는 이 프로세스를 관리하는 데이터 원본이 있습니다. 이 데이터 원본은 [!UICONTROL Adobe AMO] ([!UICONTROL ID] 411)입니다. 선택한 회사의 컨테이너 행([!UICONTROL Containers] 탭 아래)을 클릭하여 이 기본 동기화를 사용하지 않도록 설정하거나 [!DNL AMO] 동기화 프로세스에 다른 데이터 원본을 추가하고 제거하십시오.
 
 ![](assets/id-sync.png)
 

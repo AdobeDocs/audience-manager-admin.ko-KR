@@ -47,8 +47,8 @@ Audience Manager [!UICONTROL Admin] 도구의 [!UICONTROL OAuth2 Clients] 페이
 1. **[!UICONTROL Scope]** 섹션에서 원하는 대로 **[!UICONTROL Read]** 및 **[!UICONTROL Write]** 확인란을 선택하거나 선택 취소합니다.
 1. **[!UICONTROL Grant Type]** 섹션에서 원하는 인증 수단을 선택합니다. [!UICONTROL Password] 및 [!UICONTROL Refresh-token] 옵션의 기본 설정을 사용하는 것이 좋습니다.
 
-   * **[!UICONTROL Implicit]**: 이 옵션을 선택하면 [!UICONTROL Redirect URI] 상자가 활성화됩니다. 사용자는 인증된 후 자동 액세스 토큰을 받게 되고 즉시 리디렉션 [!DNL URI](으)로 전송됩니다.
-   * **[!UICONTROL Authorization Code]**: 이 옵션을 선택하면 [!UICONTROL Redirect URI] 상자가 활성화됩니다. 사용자가 인증되면 클라이언트로 반환되고 리디렉션 [!DNL URI](으)로 전송됩니다.
+   * **[!UICONTROL Implicit]**: 이 옵션을 선택하면 [!UICONTROL Redirect URI] 상자가 활성화됩니다. 사용자는 인증된 후 자동 액세스 토큰을 받게 되고 즉시 리디렉션 [!DNL URI] (으)로 전송됩니다.
+   * **[!UICONTROL Authorization Code]**: 이 옵션을 선택하면 [!UICONTROL Redirect URI] 상자가 활성화됩니다. 사용자가 인증되면 클라이언트로 반환되고 리디렉션 [!DNL URI] (으)로 전송됩니다.
    * **[!UICONTROL Password]**: 사용자가 인증 서버를 통한 자동 유효성 검사 시도 대신 사용자가 입력한 암호로 인증되었습니다.
    * **[!UICONTROL Refresh_token]**: 만료된 액세스 토큰을 장기간 새로 고치는 데 사용됩니다.
 
