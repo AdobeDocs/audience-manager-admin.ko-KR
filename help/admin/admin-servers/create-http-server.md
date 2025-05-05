@@ -50,7 +50,7 @@ Audience Manager 관리 도구의 [!UICONTROL Servers] 페이지를 사용하여
 
    >[!NOTE]
    >
-   >파트너의 실시간 데이터 전송에 대해 [OAuth 2.0 인증](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/real-time-outbound-transfers/oauth-in-outbound-transfers.html?lang=en)을 활성화하려면 아래 표와 같이 필드를 채우십시오. *기울임꼴*&#x200B;의 필드는 표에서와 정확히 동일하게 입력해야 합니다.
+   >파트너의 실시간 데이터 전송에 대해 [OAuth 2.0 인증](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/real-time-outbound-transfers/oauth-in-outbound-transfers.html?lang=ko)을 활성화하려면 아래 표와 같이 필드를 채우십시오. *기울임꼴*&#x200B;의 필드는 표에서와 정확히 동일하게 입력해야 합니다.
 
    | 이름 | 값 |
    |---|---|

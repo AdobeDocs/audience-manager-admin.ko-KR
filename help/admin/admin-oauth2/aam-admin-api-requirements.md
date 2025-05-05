@@ -36,4 +36,4 @@ ht-degree: 0%
 * [!DNL API]을(를) 호출하는 서비스(예: [!DNL API]을(를) 사용하는 클라이언트 앱의 호출 또는 대량 변경을 통한 호출)를 식별합니다.
 * [!DNL API]에 중단 없이 액세스하십시오. 특정 직원에 연결된 계정은 퇴사할 때 삭제할 수 있습니다. 이렇게 하면 고객이 사용 가능한 [!DNL API] 코드를 사용할 수 없습니다. 특정 직원에게 연결되지 않은 일반 계정은 이 문제를 방지하는 데 도움이 됩니다.
 
-이 유형의 계정에 대한 사용 사례로, 고객이 [대량 관리 도구](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en)를 사용하여 한 번에 많은 세그먼트를 변경하려고 한다고 가정해 보겠습니다. 이를 수행하려면 [!DNL API] 액세스 권한이 필요합니다. 특정 사용자에게 권한을 추가하는 대신 [!DNL API]을(를) 호출할 수 있는 적절한 자격 증명, 키 및 암호가 있는 비특정 [!DNL API] 사용자 계정을 만듭니다. 이는 클라이언트가 [!DNL Audience Manager] [!DNL API]을(를) 사용하는 자체 응용 프로그램을 개발하는 경우에도 유용합니다.
+이 유형의 계정에 대한 사용 사례로, 고객이 [대량 관리 도구](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=ko)를 사용하여 한 번에 많은 세그먼트를 변경하려고 한다고 가정해 보겠습니다. 이를 수행하려면 [!DNL API] 액세스 권한이 필요합니다. 특정 사용자에게 권한을 추가하는 대신 [!DNL API]을(를) 호출할 수 있는 적절한 자격 증명, 키 및 암호가 있는 비특정 [!DNL API] 사용자 계정을 만듭니다. 이는 클라이언트가 [!DNL Audience Manager] [!DNL API]을(를) 사용하는 자체 응용 프로그램을 개발하는 경우에도 유용합니다.
