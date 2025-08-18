@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 감사 로깅 {#audit-logging}
 
-고객 문제를 디버깅할 때 [!UICONTROL  Audit Logging]을(를) 첫 번째 위치로 사용하십시오.
+고객 문제를 디버깅할 때 [!UICONTROL &#x200B; Audit Logging]을(를) 첫 번째 위치로 사용하십시오.
 
 >[!NOTE]
 >
