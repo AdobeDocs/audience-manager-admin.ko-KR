@@ -20,7 +20,7 @@ Audience Manager 관리 도구 프로필의 세부 사항을 편집하거나 암
 
 ## 프로필 편집 {#edit-profile}
 
-이름과 성, 사용자 이름, 전자 메일 주소, 전화 번호, [!UICONTROL IMS ID], 사용자 역할 및 상태를 포함한 Audience Manager 관리 도구 프로필을 보고 편집합니다.
+이름과 성, 사용자 이름, 이메일 주소, 전화 번호, [!UICONTROL IMS ID], 사용자 역할 및 상태를 포함한 Audience Manager 관리 도구 프로필을 보고 편집합니다.
 
 <!-- t_edit_profile.xml -->
 

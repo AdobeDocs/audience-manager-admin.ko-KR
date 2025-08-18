@@ -18,9 +18,9 @@ ht-degree: 36%
 
 >[!IMPORTANT]
 >
-> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 [Audience Manager 가이드 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ko)로 이동하십시오.
+> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 [Audience Manager 안내서 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)로 이동하십시오.
 
 <!-- t_login.xml -->
 
-1. 다음 [!DNL URL] (으)로 이동하여 Audience Manager [!DNL Admin] 도구에 액세스하십시오. [https://admin.demdex.com/](https://admin.demdex.com/).
+1. 다음 [!DNL Admin]&#x200B;(으)로 이동하여 Audience Manager [!DNL URL] 도구에 액세스합니다. [https://admin.demdex.com/](https://admin.demdex.com/).
 1. 드롭다운 상자에서 원하는 인증 방법을 선택하고 **[!UICONTROL Verify]**&#x200B;을(를) 클릭합니다.

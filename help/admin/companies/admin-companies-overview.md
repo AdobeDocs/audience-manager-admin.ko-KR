@@ -1,5 +1,5 @@
 ---
-description: 회사 페이지에서는 Audience Manager 구성의 회사 목록을 볼 수 있습니다. 적절한 사용자 역할이 할당되면 기존 회사를 편집 또는 삭제하거나 새 회사를 만들 수 있습니다.
+description: 회사 페이지에서 Audience Manager 구성의 회사 목록을 볼 수 있습니다. 적절한 사용자 역할이 할당되면 기존 회사를 편집 또는 삭제하거나 새 회사를 만들 수 있습니다.
 seo-description: Use the Companies page to view a list of companies in your Audience Manager configuration. You can edit or delete existing companies or create new companies, providing that you have the appropriate user roles assigned.
 seo-title: Companies
 title: 회사

@@ -1,5 +1,5 @@
 ---
-description: Audience Manager 관리 툴의 [서버] 페이지를 사용하여 새 HTTP 서버를 생성하거나 기존 서버를 편집합니다.
+description: Audience Manager 관리 도구의 서버 페이지를 사용하여 새 HTTP 서버를 생성하거나 기존 서버를 편집합니다.
 seo-description: Use the Servers page in the Audience Manager Admin tool to create a new HTTP server or to edit an existing server.
 seo-title: Create or Edit an HTTP Server
 title: HTTP 서버 만들기 또는 편집
@@ -29,7 +29,7 @@ Audience Manager 관리 도구의 [!UICONTROL Servers] 페이지를 사용하여
    * **[!UICONTROL Port]:** 이 서버에 대해 원하는 포트를 지정하십시오. 기본 포트는 각 암호화 유형에 대해 표시됩니다. 필요한 경우 기본 포트를 변경할 수 있습니다
    * **[!UICONTROL Maximum Users Per Request]:** 이 서버에 허용된 요청당 최대 사용자 수를 지정합니다.
    * **[!UICONTROL URL Prefix]:** 이 서버에 사용할 [!DNL URL] 접두사를 지정합니다.
-   * **[!UICONTROL Authentication URL]:** 이 `HTTP` 서버에 대해 [!UICONTROL Authentication URL]을(를) 지정하십시오.
+   * **[!UICONTROL Authentication URL]:** 이 [!UICONTROL Authentication URL] 서버에 대해 `HTTP`을(를) 지정하십시오.
    * **[!UICONTROL Authentication]:** 원하는 인증 방법: **[!UICONTROL None]**, **[!UICONTROL Username/Password]** 또는 **[!UICONTROL SSH Key]**&#x200B;을(를) 지정합니다.
    * **[!UICONTROL HTTP Signature Header]:** 고객이 제공한 [!DNL HTTP] 서명 키가 포함된 [!DNL HTTP] 헤더의 이름입니다. 기본값은 아래 예와 같이 [!UICONTROL X-Signature]입니다.
 
@@ -50,7 +50,7 @@ Audience Manager 관리 도구의 [!UICONTROL Servers] 페이지를 사용하여
 
    >[!NOTE]
    >
-   >파트너의 실시간 데이터 전송에 대해 [OAuth 2.0 인증](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/real-time-outbound-transfers/oauth-in-outbound-transfers.html?lang=ko)을 활성화하려면 아래 표와 같이 필드를 채우십시오. *기울임꼴*&#x200B;의 필드는 표에서와 정확히 동일하게 입력해야 합니다.
+   >파트너의 실시간 데이터 전송에 대해 [OAuth 2.0 인증](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/real-time-outbound-transfers/oauth-in-outbound-transfers.html?lang=en)을 활성화하려면 아래 표와 같이 필드를 채우십시오. *기울임꼴*&#x200B;의 필드는 표에서와 정확히 동일하게 입력해야 합니다.
 
    | 이름 | 값 |
    |---|---|

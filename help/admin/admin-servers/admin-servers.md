@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 서버 개요 {#servers-overview}
 
-[!UICONTROL Servers] 페이지를 사용하여 Audience Manager 구성에서 서버 목록을 봅니다. 적절한 사용자 역할이 할당되면 기존 서버를 편집 또는 삭제하거나 새 서버를 만들 수 있습니다.
+[!UICONTROL Servers] 페이지에서 Audience Manager 구성의 서버 목록을 볼 수 있습니다. 적절한 사용자 역할이 할당되면 기존 서버를 편집 또는 삭제하거나 새 서버를 만들 수 있습니다.
 
 <!-- c_servers.xml -->
 

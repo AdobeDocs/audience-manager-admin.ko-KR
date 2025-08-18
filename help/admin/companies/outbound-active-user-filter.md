@@ -1,5 +1,5 @@
 ---
-description: 다음 지침에 따라 최근 활성 사용자만 포함하는 전체 동기화 파일을 생성합니다. 활성 사용자가 관련 데이터를 온사이트 타겟팅 시스템에 푸시하도록 필터링하거나 DSP에 전송되는 파일 크기를 제한할 수 있습니다. 증분 동기화에는 이 필터를 사용할 수 없습니다.
+description: 다음 지침에 따라 최근 활성 사용자만 포함하는 전체 동기화 파일을 생성합니다. 활성 사용자가 관련 데이터를 온사이트 타겟팅 시스템에 푸시하도록 필터링하거나 DSP으로 전송되는 파일 크기를 제한할 수 있습니다. 증분 동기화에는 이 필터를 사용할 수 없습니다.
 seo-description: Follow these instructions to generate a full synchronization file that includes recently active users only. You may want to filter for active users to push relevant data to an on-site targeting system or to limit the size of the files sent to a DSP. You cannot use this filter with incremental synchronization.
 seo-title: Filter Outbound Data by Active Users Only
 title: 활성 사용자로만 아웃바운드 데이터 필터링
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 활성 사용자로만 아웃바운드 데이터 필터링 {#filter-outbound-data-by-active-users-only}
 
-다음 지침에 따라 최근 활성 사용자만 포함하는 전체 동기화 파일을 생성합니다. 활성 사용자가 관련 데이터를 온사이트 타겟팅 시스템에 푸시하도록 필터링하거나 DSP에 전송되는 파일 크기를 제한할 수 있습니다. 증분 동기화에는 이 필터를 사용할 수 없습니다.
+다음 지침에 따라 최근 활성 사용자만 포함하는 전체 동기화 파일을 생성합니다. 활성 사용자가 관련 데이터를 온사이트 타겟팅 시스템에 푸시하도록 필터링하거나 DSP으로 전송되는 파일 크기를 제한할 수 있습니다. 증분 동기화에는 이 필터를 사용할 수 없습니다.
 
 >[!NOTE]
 >

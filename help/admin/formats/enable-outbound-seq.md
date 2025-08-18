@@ -1,8 +1,8 @@
 ---
-description: Audience Manager 고객에 대해 이진 Hadoop 시퀀스 파일(시퀀스) 아웃바운드 배치 전송을 활성화할 수 있습니다.
+description: Audience Manager 고객에 대해 바이너리 Hadoop 시퀀스 파일(SEQ) 아웃바운드 배치 전송을 활성화할 수 있습니다.
 seo-description: You can enable binary Hadoop Sequence Files (SEQ) outbound batch transfers for Audience Manager customers.
 seo-title: Enable Hadoop Sequence File Transfers for Outbound
-title: 아웃바운드에 대한 Hadoop 시퀀스 파일 전송 활성화
+title: 아웃바운드에 대해 Hadoop 시퀀스 파일 전송 활성화
 uuid: 301985b1-5ff6-4112-a353-2e5a97e7eec0
 exl-id: 45a72422-9e72-46f9-835e-ed0dd88152d2
 source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# 아웃바운드에 대한 Hadoop 시퀀스 파일 전송 활성화 {#enable-hadoop-sequence-file-transfers-for-outbound}
+# 아웃바운드에 대해 Hadoop 시퀀스 파일 전송 활성화 {#enable-hadoop-sequence-file-transfers-for-outbound}
 
-Audience Manager 고객에 대해 이진 [!DNL Hadoop Sequence Files] ([!DNL SEQ]) 아웃바운드 배치 전송을 사용하도록 설정할 수 있습니다.
+Audience Manager 고객에 대해 이진 [!DNL Hadoop Sequence Files]&#x200B;([!DNL SEQ]) 아웃바운드 배치 전송을 사용하도록 설정할 수 있습니다.
 
 [!DNL SEQ]개의 아웃바운드 파일 전송을 사용하려면:
 

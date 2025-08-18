@@ -1,5 +1,5 @@
 ---
-description: Inside Adobe의 Account Management 포털에 로그인하여 기능 관리자 액세스를 요청하고 아래 설명된 단계를 수행합니다.
+description: Adobe 내에서 계정 관리 포털에 로그인하여 기능 관리자 액세스를 요청하고 아래 설명된 단계를 수행합니다.
 seo-description: Log in to the Account Management portal in Inside Adobe to request Functional Admin Access and follow the steps described below.
 seo-title: How to Request Functional Admin Access
 title: 기능 관리자 액세스를 요청하는 방법
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 기능 관리자 액세스를 요청하는 방법 {#how-to-request-functional-admin-access}
 
-[!UICONTROL Inside Adobe]의 [!UICONTROL Identity & Access Management] 포털에 로그인하여 [!UICONTROL Functional Admin Access]을(를) 요청하고 아래 설명된 단계를 수행합니다.
+[!UICONTROL Identity & Access Management]의 [!UICONTROL Inside Adobe] 포털에 로그인하여 [!UICONTROL Functional Admin Access]을(를) 요청하고 아래 설명된 단계를 수행합니다.
 
 <!-- request-functional-admin-access.xml -->
 
@@ -25,5 +25,5 @@ ht-degree: 0%
 5. 액세스 유형 목록에서 **[!UICONTROL Digital Marketing]**&#x200B;을(를) 선택합니다.
 6. **[!UICONTROL Manage Digital Marketing Access]** 페이지의 드롭다운 상자에서 **[!UICONTROL Request Admin Console Access]**&#x200B;을(를) 선택하고 **[!UICONTROL Next/Submit]**&#x200B;을(를) 클릭합니다.
 7. **[!UICONTROL Request Admin Console Access - Console]** 페이지의 드롭다운 상자에서 **[!UICONTROL AAM]**&#x200B;을(를) 선택하고 **[!UICONTROL Next/Submit]**&#x200B;을(를) 클릭합니다.
-8. **[!UICONTROL Request Admin Console Access - Groups]** 창의 **[!UICONTROL Available Entitlements]** 목록에서 **[!UICONTROL AAM Functional Admin - General Access]**&#x200B;을(를) 선택하고 요청에 대한 **[!UICONTROL Business Justification]**&#x200B;을(를) 입력합니다. **[!UICONTROL Next/Submit]**&#x200B;을(를) 클릭하여 요청을 확인합니다.
+8. **[!UICONTROL Request Admin Console Access - Groups]** 창의 **[!UICONTROL AAM Functional Admin - General Access]** 목록에서 **[!UICONTROL Available Entitlements]**&#x200B;을(를) 선택하고 요청에 대한 **[!UICONTROL Business Justification]**&#x200B;을(를) 입력합니다. **[!UICONTROL Next/Submit]**&#x200B;을(를) 클릭하여 요청을 확인합니다.
 9. 기능 관리자 액세스 권한을 얻으려면 요청을 승인해야 합니다.

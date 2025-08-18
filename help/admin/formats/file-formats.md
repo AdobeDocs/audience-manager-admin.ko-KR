@@ -105,7 +105,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>CLOSE_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>닫는 중괄호 <code>&rbrace;</code> 문자를 삽입합니다. </p> </td> 
+   <td colname="col2"> <p>닫는 중괄호 <code>}</code> 문자를 삽입합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>COMMA</code> </p> </td> 
@@ -137,7 +137,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPEN_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>여는 중괄호 <code>&lbrace;</code> 문자를 삽입합니다. </p> </td> 
+   <td colname="col2"> <p>여는 중괄호 <code>{</code> 문자를 삽입합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPT_OUT</code> </p> </td> 
@@ -186,7 +186,7 @@ ht-degree: 1%
      <li id="li_859E1F4F21D645519F150DC512B3EB1A"> <code>type</code>: 숫자 ID로 식별되는 트레이트 유형입니다. 이 변수는 다음을 반환합니다. 
       <ul id="ul_C9839266783D42CCADAAC3FEA33BE4D7"> 
        <li id="li_6996A218E3F04EC3BC70032559DD87FC"> DPM 특성(오프라인, 인바운드 작업에 의해 온보딩된)을 식별하는 <code>10</code>. </li> 
-       <li id="li_831FF929BF50434C8804C13E5786DF79"> <span class="wintitle"> DCS </span>을(를) 통해 온보딩된 규칙 기반 특성(실시간, 실시간)을 식별하는 <code>3</code>. </li> 
+       <li id="li_831FF929BF50434C8804C13E5786DF79"> <code>3</code> DCS <span class="wintitle">을(를) 통해 온보딩된 규칙 기반 특성(실시간, 실시간)을 식별하는 </span>. </li> 
       </ul> </li> 
      <li id="li_E84D6BC80AEE4F10963C9882C4151ED4"> <code>traitId</code>: 트레이트 ID. </li> 
      <li id="li_D30A849BA35248E6B9110FA3ADEFC332"> <code>lastRealized</code>: 트레이트가 마지막으로 실현된 시간입니다. Unix 타임스탬프. </li> 
@@ -194,7 +194,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>UUID</code> </p> </td> 
-   <td colname="col2"> <p> <span class="keyword"> Audience Manager </span> 사용자 ID입니다. </p> </td> 
+   <td colname="col2"> <p> <span class="keyword"> Audience Manager </span> 사용자 ID. </p> </td> 
   </tr> 
  </tbody> 
 </table>

@@ -33,8 +33,8 @@ ht-degree: 2%
    * **[!UICONTROL Username]**: (필수) 사용자의 Audience Manager 사용자 이름을 지정합니다. 사용자 이름은 고유해야 합니다.
    * **[!UICONTROL Email Address]**: (필수) 사용자의 전자 메일 주소를 지정합니다.
    * **[!UICONTROL Phone Number]**: 사용자의 전화 번호를 지정하십시오.
-   * **[!UICONTROL IMS ID]**: 사용자의 [!UICONTROL Identity Management System ID]. 이 ID를 사용하면 사용자가 Adobe Experience Cloud에 대한 Adobe 솔루션에 연결할 수 있습니다.
-   * **[!UICONTROL Is Admin]**: 이 사용자를 Audience Manager 관리 사용자로 만듭니다. 관리자는 이 파트너에 대한 모든 Audience Manager 사용자 역할을 갖습니다.
+   * **[!UICONTROL IMS ID]**: 사용자의 [!UICONTROL Identity Management System ID]. 이 ID를 사용하면 사용자가 Adobe 솔루션에 Adobe Experience Cloud으로 연결할 수 있습니다.
+   * **[!UICONTROL Is Admin]**: 이 사용자를 Audience Manager 관리 사용자로 설정합니다. 관리자는 이 파트너에 대한 모든 Audience Manager 사용자 역할을 갖습니다.
    * **[!UICONTROL Status]**: 새 사용자를 만드는 동안 사용자가 로그인하고 임시 암호를 재설정할 때까지 이 필드가 처음에 **[!UICONTROL Pending]**(으)로 표시됩니다. 기존 사용자를 편집하는 경우 다음 상태 중에서 선택할 수 있습니다.
       * **[!UICONTROL Active]**: 이 사용자가 활성 Audience Manager 사용자임을 지정합니다.
       * **[!UICONTROL Deactivated]**: 이 사용자가 비활성화된 Audience Manager 사용자임을 지정합니다.
@@ -48,5 +48,5 @@ ht-degree: 2%
 사용자를 삭제하려면 다음을 수행하십시오.
 
 1. **[!UICONTROL Companies]**&#x200B;을(를) 클릭하고 원하는 회사를 찾아 클릭한 다음 **[!UICONTROL Users]** 탭을 클릭합니다.
-1. 원하는 사용자의 **[!UICONTROL Actions]** 열에서 ![](assets/icon_delete.png)을(를) 클릭합니다.
+1. 원하는 사용자의 ![](assets/icon_delete.png) 열에서 **[!UICONTROL Actions]**&#x200B;을(를) 클릭합니다.
 1. **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 삭제를 확인합니다.

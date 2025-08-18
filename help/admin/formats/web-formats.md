@@ -30,12 +30,12 @@ ht-degree: 2%
   <tr> 
    <td colname="col1"> <p> <code>AAM_UUID</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p> <span class="keyword"> Audience Manager </span> ID입니다. </p> </td> 
+   <td colname="col3"> <p> <span class="keyword"> Audience Manager </span> ID. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>DP_UUID</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>데이터 파트너 고유 사용자 ID. 이 매크로는 <span class="keyword"> Audience Manager </span> 장치 ID와 ID가 이미 동기화된 경우 사용자에게 할당한 ID를 반환합니다. </p> </td> 
+   <td colname="col3"> <p>데이터 파트너 고유 사용자 ID. 이 매크로는 <span class="keyword"> Audience Manager </span> 장치 ID와 이미 동기화된 사용자의 ID를 반환합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>DPID</code> </p> </td> 
@@ -50,7 +50,7 @@ ht-degree: 2%
   <tr> 
    <td colname="col1"> <p> <code>GENERATION_TIME</code> </p> </td> 
    <td colname="col2"> <p> <code>GET, POST</code> </p> </td> 
-   <td colname="col3"> <p>Unix UTC 타임스탬프. AAM 내부 타임스탬프는 <span class="wintitle"> S2S </span> 대상을 파트너에 게시하라는 알림을 받은 시간을 나타냅니다. </p> </td> 
+   <td colname="col3"> <p>Unix UTC 타임스탬프. 내부 타임스탬프는 AAM이 <span class="wintitle"> S2S </span> 대상을 파트너에 게시하라는 알림을 받은 시간을 나타냅니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>IP</code> </p> </td> 
@@ -60,7 +60,7 @@ ht-degree: 2%
     <tr> 
    <td colname="col1"> <p> <code>MCID</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>Experience Cloud ID. (MCID는 Marketing Cloud을 의미하며, 이는 Experience Cloud의 기존 이름입니다.) </p> </td> 
+   <td colname="col3"> <p>Experience Cloud ID. (MCID는 Experience Cloud의 기존 이름인 Marketing Cloud을 의미합니다.) </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>NUM_REMOVED_SEGMENTS</code> </p> </td> 
@@ -90,7 +90,7 @@ ht-degree: 2%
   <tr> 
    <td colname="col1"> <p> <code>REGION_ID_LIST</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>활동이 시작된 <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-regions.html?lang=ko"> Audience Manager DCS 영역 </a>입니다.</p> </td> 
+   <td colname="col3"> <p>활동이 시작된 <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-regions.html?lang=en"> Audience Manager DCS 지역 </a>.</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>REMOVED_SEGMENT_LIST</code> </p> </td> 
