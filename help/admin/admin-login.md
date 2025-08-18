@@ -18,7 +18,7 @@ ht-degree: 36%
 
 >[!IMPORTANT]
 >
-> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 [Audience Manager 안내서 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)로 이동하십시오.
+> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 [Audience Manager 안내서 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ko)로 이동하십시오.
 
 <!-- t_login.xml -->
 

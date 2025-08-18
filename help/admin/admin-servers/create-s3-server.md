@@ -26,7 +26,7 @@ Audience Manager 관리 도구의 [!UICONTROL Servers] 페이지를 사용하여
 
    >[!NOTE]
    >
-   >[!DNL Amazon S3]을(를) 통해 파일을 가져오고 파트너에게 파일을 전달하는 방법으로 사용하는 것이 좋습니다. [!DNL Amazon S3]은(는) 웹 상의 어디에서나 언제든지 원하는 양의 데이터를 저장하고 검색하는 데 사용할 수 있는 간단한 웹 서비스 인터페이스를 제공합니다. 자세한 내용은 [Amazon 사용 안내서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html)의 *Audience Manager S3 정보*&#x200B;를 참조하십시오.
+   >[!DNL Amazon S3]을(를) 통해 파일을 가져오고 파트너에게 파일을 전달하는 방법으로 사용하는 것이 좋습니다. [!DNL Amazon S3]은(는) 웹 상의 어디에서나 언제든지 원하는 양의 데이터를 저장하고 검색하는 데 사용할 수 있는 간단한 웹 서비스 인터페이스를 제공합니다. 자세한 내용은 [Amazon 사용 안내서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html?lang=ko)의 *Audience Manager S3 정보*&#x200B;를 참조하십시오.
 
 1. 다음 필드를 채웁니다.
 

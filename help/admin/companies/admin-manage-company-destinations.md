@@ -18,7 +18,7 @@ Audience Manager 대상 만들기, 편집 및 삭제
 
 <!-- t_company_destinations.xml -->
 
-자세한 내용은 [Audience Manager 사용 안내서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)의 *대상*&#x200B;을 참조하세요.
+자세한 내용은 [Audience Manager 사용 안내서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=ko)의 *대상*&#x200B;을 참조하세요.
 
 ## 회사 대상 만들기 또는 편집 {#create-edit-company-destinations}
 
@@ -58,7 +58,7 @@ Audience Manager 대상 만들기, 편집 및 삭제
 >
 >[!UICONTROL Bulk ID] 대상 형식의 경우 [!DNL Audience Manager] [!UICONTROL User ID] 또는 [!DNL Adobe Experience Cloud] ID를 사용할 수 없습니다.
 
-데이터 원본 ID([!UICONTROL DPID])가 드롭다운 목록에 표시되지 않으면 **[!UICONTROL Outbound]**&#x200B;데이터 Source 설정 페이지[의 데이터 원본 수준에서 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html) 확인란을 선택해야 합니다.
+데이터 원본 ID([!UICONTROL DPID])가 드롭다운 목록에 표시되지 않으면 **[!UICONTROL Outbound]**&#x200B;데이터 Source 설정 페이지[의 데이터 원본 수준에서 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=ko) 확인란을 선택해야 합니다.
 
 * **[!UICONTROL Target Data Source]:**(필수) 드롭다운 목록에서 이 대상에 대해 원하는 데이터 원본을 선택하십시오. 이 설정을 사용하면 아웃바운드 데이터의 레이블을 지정할 수 있으므로 클라이언트 측에서 별도의 시스템으로 수집할 수 있습니다.
 * **[!UICONTROL Foreign Account ID]:** 이 대상에 대한 외부 계정 ID를 지정하십시오. 이는 아웃바운드 데이터에 대한 수신자 시스템의 식별 값입니다.

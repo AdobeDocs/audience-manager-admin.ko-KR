@@ -43,7 +43,7 @@ Audience Manager 관리 도구의 [!UICONTROL Formats] 페이지를 사용하여
    * **[!UICONTROL Data Row]:** 파일의 각 아웃바운드 행에 표시되는 텍스트를 지정합니다.
    * **[!UICONTROL Maximum File Size (In MB)]:** 데이터 전송 파일의 최대 파일 크기를 지정합니다. 압축된 파일은 100MB보다 작아야 합니다. 압축되지 않은 파일 크기에는 제한이 없습니다.
    * **[!UICONTROL Compression]:** 데이터 파일에 대해 원하는 압축 유형(gz 또는 zip)을 선택합니다. [!UICONTROL AWS S3]&#x200B;(으)로 배달하려면 .gz 또는 압축되지 않은 파일을 사용해야 합니다.
-   * **[!UICONTROL .info Receipt]:** 전송 제어([!DNL .info]) 파일이 생성되도록 지정합니다. [!DNL .info] 파일은 파트너가 Audience Manager에서 파일 전송을 올바르게 처리했는지 확인할 수 있도록 파일 전송에 대한 메타데이터 정보를 제공합니다. 자세한 내용은 [로그 파일 전송을 위한 전송 제어 파일](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/transfer-control-files.html?lang=en)을 참조하십시오.
+   * **[!UICONTROL .info Receipt]:** 전송 제어([!DNL .info]) 파일이 생성되도록 지정합니다. [!DNL .info] 파일은 파트너가 Audience Manager에서 파일 전송을 올바르게 처리했는지 확인할 수 있도록 파일 전송에 대한 메타데이터 정보를 제공합니다. 자세한 내용은 [로그 파일 전송을 위한 전송 제어 파일](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/transfer-control-files.html?lang=ko)을 참조하십시오.
    * **[!UICONTROL MD5 Checksum Receipt]:** [!DNL MD5] 체크섬 확인을 생성하도록 지정합니다. 파트너가 Audience Manager에서 전체 전송을 올바르게 처리했는지 확인할 수 있도록 [!DNL MD5] 체크섬 확인을 수행합니다.
 
 1. (조건부) **[!UICONTROL HTTP]**&#x200B;을(를) 선택한 경우 다음 필드를 채웁니다.
