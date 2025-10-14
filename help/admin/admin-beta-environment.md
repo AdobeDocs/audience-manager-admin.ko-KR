@@ -50,7 +50,7 @@ ht-degree: 2%
 
 Beta 환경에서 [!UICONTROL DCS]에 액세스하려면 다음을 수행하십시오.
 
-1. [!UICONTROL DCS] [!DNL curl]command[을(를) 사용하여 ](https://curl.haxx.se/docs/manpage.html)을(를) 호출합니다. [!DNL Curl]은(는) 지원되는 여러 프로토콜 중 하나를 사용하여 서버에서 또는 서버로 데이터를 전송하는 도구입니다.
+1. [!UICONTROL DCS] [!DNL curl]command[을(를) 사용하여 &#x200B;](https://curl.haxx.se/docs/manpage.html)을(를) 호출합니다. [!DNL Curl]은(는) 지원되는 여러 프로토콜 중 하나를 사용하여 서버에서 또는 서버로 데이터를 전송하는 도구입니다.
 
    예: `curl -v https://dcs-beta.demdex.net/event`
 

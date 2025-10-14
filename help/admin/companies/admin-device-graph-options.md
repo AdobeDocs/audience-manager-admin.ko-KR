@@ -30,7 +30,7 @@ ht-degree: 1%
 
 ### Co-op 장치 그래프 {#co-op-graph}
 
-[Adobe Experience Cloud Device Co-op](https://experienceleague.adobe.com/docs/device-co-op/using/about/overview.html?lang=ko)에 참여하는 고객은 이러한 옵션을 사용하여 [!UICONTROL Profile Merge Rule]결정론적 및 확률론적 데이터[를 사용하는 ](https://experienceleague.adobe.com/docs/device-co-op/using/device-graph/links.html?lang=ko)을(를) 만듭니다. [!DNL Corporate Provisioning Team]은(는) 백 엔드 [!DNL API] 호출을 통해 이 옵션을 활성화하고 비활성화합니다. [!DNL Admin UI]에서 이 상자를 선택하거나 지울 수 없습니다. 또한 **[!UICONTROL Co-op Device Graph]** 및 **[!UICONTROL Company Device Graph]** 옵션은 함께 사용할 수 없습니다. 고객은 둘 중 하나를 활성화하도록 요청할 수 있지만 둘 다 활성화하지는 않습니다. 이 옵션을 선택하면 **[!UICONTROL Co-op Device Graph]**&#x200B;에 대한 [!UICONTROL Device Options] 설정의 [!UICONTROL Profile Merge Rule] 컨트롤이 표시됩니다.
+[Adobe Experience Cloud Device Co-op](https://experienceleague.adobe.com/docs/device-co-op/using/about/overview.html?lang=ko)에 참여하는 고객은 이러한 옵션을 사용하여 [!UICONTROL Profile Merge Rule]결정론적 및 확률론적 데이터[를 사용하는 &#x200B;](https://experienceleague.adobe.com/docs/device-co-op/using/device-graph/links.html?lang=ko)을(를) 만듭니다. [!DNL Corporate Provisioning Team]은(는) 백 엔드 [!DNL API] 호출을 통해 이 옵션을 활성화하고 비활성화합니다. [!DNL Admin UI]에서 이 상자를 선택하거나 지울 수 없습니다. 또한 **[!UICONTROL Co-op Device Graph]** 및 **[!UICONTROL Company Device Graph]** 옵션은 함께 사용할 수 없습니다. 고객은 둘 중 하나를 활성화하도록 요청할 수 있지만 둘 다 활성화하지는 않습니다. 이 옵션을 선택하면 **[!UICONTROL Co-op Device Graph]**&#x200B;에 대한 [!UICONTROL Device Options] 설정의 [!UICONTROL Profile Merge Rule] 컨트롤이 표시됩니다.
 
 ![](assets/adminUI1.png)
 
