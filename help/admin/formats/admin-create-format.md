@@ -5,9 +5,17 @@ seo-title: Create or Edit a Format
 title: 형식 만들기 또는 편집
 uuid: ca1b1feb-bcd3-4a41-b1e8-80565f6c23ae
 exl-id: 3c97d1e9-8093-4181-a1fd-fb1816cdaa3d
-source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
+TQID: https://experienceleague.adobe.com/VMEOfWNeQ5CSWvWqZYdjNO4qyvFD5Iw1onpAdVRKgQQ
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: 439
 ht-degree: 1%
 
 ---
@@ -57,5 +65,5 @@ Audience Manager 관리 도구의 [!UICONTROL Formats] 페이지를 사용하여
 ## 형식 삭제 {#delete-format}
 
 1. **[!UICONTROL Formats]** 아이콘을 클릭합니다.
-2. 원하는 형식의 ![](assets/icon_delete.png) 열에서 **[!UICONTROL Actions]**&#x200B;을(를) 클릭합니다.
+2. 원하는 형식의 **[!UICONTROL Actions]** 열에서 ![](assets/icon_delete.png)을(를) 클릭합니다.
 3. **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 삭제를 확인합니다.

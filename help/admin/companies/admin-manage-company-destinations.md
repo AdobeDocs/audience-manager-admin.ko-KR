@@ -5,9 +5,14 @@ seo-title: Manage Company Destinations
 title: 회사 대상 관리
 uuid: d9a6bfb1-7629-44e0-b7d7-ece44f65ea2b
 exl-id: a2e73613-07cd-4ab8-8c6e-be451ed50bfc
-source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
+TQID: https://experienceleague.adobe.com/-MWpMACN0bFPIRAWejD0-VV5nG8BGAukmV1QXxXal-E
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: c814092e-2730-45e8-a12d-e084529f52cb
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '1061'
+source-wordcount: 1101
 ht-degree: 0%
 
 ---
@@ -18,7 +23,7 @@ Audience Manager 대상 만들기, 편집 및 삭제
 
 <!-- t_company_destinations.xml -->
 
-자세한 내용은 [Audience Manager 사용 안내서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=ko)의 *대상*&#x200B;을 참조하세요.
+자세한 내용은 *Audience Manager 사용 안내서*&#x200B;의 [대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=ko)을 참조하세요.
 
 ## 회사 대상 만들기 또는 편집 {#create-edit-company-destinations}
 
@@ -28,7 +33,7 @@ Audience Manager 대상 만들기, 편집 및 삭제
 
 대상을 설정하기 전에 [Experience Cloud 파트너 통합 페이지](https://wiki.corp.adobe.com/x/mPIMPw)를 방문하십시오. 각 [!DNL Audience Manager] 파트너 통합에 대해 입력해야 하는 특정 정보가 페이지에 포함되어 있습니다.
 
-클라이언트에서 [!DNL Adobe Media Optimizer]에서 [!DNL Audience Manager]을(를) 대상으로 사용하려면 [!DNL Adobe Media Optimizer]에서 설정해야 합니다.
+클라이언트에서 [!DNL Audience Manager]에서 [!DNL Adobe Media Optimizer]을(를) 대상으로 사용하려면 [!DNL Adobe Media Optimizer]에서 설정해야 합니다.
 
 ## 대상 탭으로 이동합니다. {#navigate-destinations}
 
@@ -58,7 +63,7 @@ Audience Manager 대상 만들기, 편집 및 삭제
 >
 >[!UICONTROL Bulk ID] 대상 형식의 경우 [!DNL Audience Manager] [!UICONTROL User ID] 또는 [!DNL Adobe Experience Cloud] ID를 사용할 수 없습니다.
 
-데이터 원본 ID([!UICONTROL DPID])가 드롭다운 목록에 표시되지 않으면 **[!UICONTROL Outbound]**&#x200B;데이터 Source 설정 페이지[의 데이터 원본 수준에서 &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=ko) 확인란을 선택해야 합니다.
+데이터 원본 ID([!UICONTROL DPID])가 드롭다운 목록에 표시되지 않으면 [데이터 Source 설정 페이지](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=ko)의 데이터 원본 수준에서 **[!UICONTROL Outbound]** 확인란을 선택해야 합니다.
 
 * **[!UICONTROL Target Data Source]:**(필수) 드롭다운 목록에서 이 대상에 대해 원하는 데이터 원본을 선택하십시오. 이 설정을 사용하면 아웃바운드 데이터의 레이블을 지정할 수 있으므로 클라이언트 측에서 별도의 시스템으로 수집할 수 있습니다.
 * **[!UICONTROL Foreign Account ID]:** 이 대상에 대한 외부 계정 ID를 지정하십시오. 이는 아웃바운드 데이터에 대한 수신자 시스템의 식별 값입니다.
@@ -85,7 +90,7 @@ Audience Manager 대상 만들기, 편집 및 삭제
    * **[!UICONTROL S3]**
 * **[!UICONTROL Servers]**: (필수) 드롭다운 목록에서 이 대상에 대해 원하는 서버를 선택합니다.
 * **[!UICONTROL Format]**: (필수) 위에서 선택한 프로토콜에 따라 드롭다운 목록에서 이 대상에 대해 원하는 형식을 선택하십시오. [!DNL HTTP] 또는 파일 형식.
-* **[!UICONTROL Sync Type]**: (필수) 이 대상에 대해 원하는 동기화 유형을 선택합니다. 이는 클라이언트가 아웃바운드 주문에 포함할 사용자 활동 수준을 나타냅니다. 클라이언트가 해당 속성의 세그먼트 자격 분석에만 관심이 있는 경우 **[!UICONTROL Customer]**&#x200B;을(를) 선택합니다. 모든 **[!UICONTROL Platform]** 고객에 대해 오프사이트 활동의 세그먼트 자격을 포함하려면 [!DNL Audience Manager]을(를) 선택하십시오.
+* **[!UICONTROL Sync Type]**: (필수) 이 대상에 대해 원하는 동기화 유형을 선택합니다. 이는 클라이언트가 아웃바운드 주문에 포함할 사용자 활동 수준을 나타냅니다. 클라이언트가 해당 속성의 세그먼트 자격 분석에만 관심이 있는 경우 **[!UICONTROL Customer]**&#x200B;을(를) 선택합니다. 모든 [!DNL Audience Manager] 고객에 대해 오프사이트 활동의 세그먼트 자격을 포함하려면 **[!UICONTROL Platform]**&#x200B;을(를) 선택하십시오.
 * **[!UICONTROL Customer]**: 파일에 선택한 기간 동안 클라이언트의 속성([!UICONTROL PID])에서만 트레이트 실현이 1개 이상 있는 활성 사용자가 포함되어 있습니다. 클라이언트는 이 옵션을 사용하여 *실시간* 세그먼트 자격을 대상으로 아웃바운드해야 합니다.
 * **[!UICONTROL Platform]**: 선택한 기간 동안 모든 [!DNL Audience Manager] 클라이언트의 속성(모든 클라이언트 PID와 연결됨)에 걸쳐 어디서나 1개 이상의 실시간 상호 작용이 있는 활성 사용자가 파일에 포함되어 있습니다. 클라이언트는 이 옵션을 사용하여 *총* 세그먼트 자격을 대상으로 아웃바운드해야 합니다.
 * **[!UICONTROL Lifetime]**: 대상을 만든 이후 모든 [!DNL Audience Manager] 클라이언트의 속성에서 보이는 활성 사용자가 파일에 포함되어 있습니다.
@@ -129,7 +134,7 @@ I removed {importance="high"} from note for Exp League rendering. -Bob
 대상을 삭제하려면
 
 1. **[!UICONTROL Companies]**&#x200B;을(를) 클릭하고 원하는 회사를 찾아 클릭한 다음 **[!UICONTROL Destinations]** 탭을 클릭합니다.
-1. 원하는 대상의 ![](assets/icon_delete.png) 열에서 **[!UICONTROL Actions]**&#x200B;을(를) 클릭합니다.
+1. 원하는 대상의 **[!UICONTROL Actions]** 열에서 ![](assets/icon_delete.png)을(를) 클릭합니다.
 1. **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 삭제를 확인합니다.
 
 >[!NOTE]

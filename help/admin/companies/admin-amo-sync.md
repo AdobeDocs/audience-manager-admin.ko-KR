@@ -5,9 +5,12 @@ seo-title: ID Syncing with Media Optimizer
 title: Media Optimizer와 ID 동기화
 uuid: b741dfa7-2947-4288-b214-79eccf18d53a
 exl-id: ebd978ef-3825-4a96-94bd-5cdae269cf7c
-source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
+TQID: https://experienceleague.adobe.com/R6xtPWC964J1atGK-R0g6J5AG83PYJosHNE3-5LvMVE
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: 222
 ht-degree: 2%
 
 ---
@@ -24,7 +27,7 @@ ht-degree: 2%
 
 | 상태 | 설명 |
 |------ | -------- |
-| 꺼짐 | [!UICONTROL Selected Data Sources]과(와) ID 동기화를 사용하지 않도록 설정하려면 이 컨테이너의 [!DNL AMO]에서 모든 데이터 원본을 제거하십시오. |
+| 꺼짐 | [!DNL AMO]과(와) ID 동기화를 사용하지 않도록 설정하려면 이 컨테이너의 [!UICONTROL Selected Data Sources]에서 모든 데이터 원본을 제거하십시오. |
 | 켜기(ID 서비스 버전에 관계없이) | 다음과 같은 경우 ID 서비스 버전에 관계없이 데이터 원본이 [!DNL AMO]과(와) 동기화됩니다. <ul><li>데이터 원본이 [!UICONTROL Selected Data Sources] 목록에 나타납니다.</li><li>[!DNL AMO] 확인란 *이(가) 선택되지 않았습니다*.</li></ul> |
 | 켜기(ID 서비스 버전에 관계없이) | 다음과 같은 경우 데이터 원본은 ID 서비스 버전 2.0 이상의 [!DNL AMO]과(와) 동기화됩니다. <ul><li>데이터 원본이 [!UICONTROL Selected Data Sources] 목록에 나타납니다.</li><li>[!DNL AMO] 확인란 *is*&#x200B;을(를) 선택했습니다.</li></ul> |
 

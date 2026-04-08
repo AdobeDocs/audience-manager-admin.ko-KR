@@ -5,9 +5,16 @@ seo-title: Create or Edit an HTTP Server
 title: HTTP 서버 만들기 또는 편집
 uuid: 1ef0e751-e239-4dc6-a4f6-73cc05686807
 exl-id: 8b3dfb1e-2dee-4a05-835e-3c32643336bc
-source-git-commit: c7c5da62b32f6a56152e1c09a965facfc601cade
+TQID: https://experienceleague.adobe.com/vcybBl222PvpcEeMFtPZyqbP-YWHCNKF9luqmTZ1C7Y
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: 315
 ht-degree: 2%
 
 ---
@@ -29,7 +36,7 @@ Audience Manager 관리 도구의 [!UICONTROL Servers] 페이지를 사용하여
    * **[!UICONTROL Port]:** 이 서버에 대해 원하는 포트를 지정하십시오. 기본 포트는 각 암호화 유형에 대해 표시됩니다. 필요한 경우 기본 포트를 변경할 수 있습니다
    * **[!UICONTROL Maximum Users Per Request]:** 이 서버에 허용된 요청당 최대 사용자 수를 지정합니다.
    * **[!UICONTROL URL Prefix]:** 이 서버에 사용할 [!DNL URL] 접두사를 지정합니다.
-   * **[!UICONTROL Authentication URL]:** 이 [!UICONTROL Authentication URL] 서버에 대해 `HTTP`을(를) 지정하십시오.
+   * **[!UICONTROL Authentication URL]:** 이 `HTTP` 서버에 대해 [!UICONTROL Authentication URL]을(를) 지정하십시오.
    * **[!UICONTROL Authentication]:** 원하는 인증 방법: **[!UICONTROL None]**, **[!UICONTROL Username/Password]** 또는 **[!UICONTROL SSH Key]**&#x200B;을(를) 지정합니다.
    * **[!UICONTROL HTTP Signature Header]:** 고객이 제공한 [!DNL HTTP] 서명 키가 포함된 [!DNL HTTP] 헤더의 이름입니다. 기본값은 아래 예와 같이 [!UICONTROL X-Signature]입니다.
 

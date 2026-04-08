@@ -6,9 +6,17 @@ solution: Audience Manager
 title: Beta 환경
 uuid: 6a253f4e-96e7-4395-a783-a8eb213b7daf
 exl-id: 78d5a1ff-c016-4366-ba34-9814a0d92067
-source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
+TQID: https://experienceleague.adobe.com/Y6hON41v53cSXtuTYMW8UMgimwyewWHvfcBvMYDnBa4
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: 366
 ht-degree: 2%
 
 ---
@@ -40,7 +48,7 @@ ht-degree: 2%
 1. 왼쪽 탐색 레일의 **[!UICONTROL Request TechOps Help]**(으)로 이동합니다.
 1. **[!UICONTROL Request Search]**&#x200B;에서 검색 필드에 Audience Manager을 입력합니다.
 1. 검색 결과에서 아래로 스크롤하여 **Audience Manager - S3 인바운드/아웃바운드 계정 프로비저닝**&#x200B;을 클릭합니다.
-1. 프로비저닝 창의 필드를 입력하고 **필드에**&#x200B;샌드박스 환경&#x200B;**[!UICONTROL Environment]**&#x200B;을(를) 지정하십시오.
+1. 프로비저닝 창의 필드를 입력하고 **[!UICONTROL Environment]** 필드에 **샌드박스 환경**&#x200B;을(를) 지정하십시오.
 
 >[!NOTE]
 >
@@ -50,7 +58,7 @@ ht-degree: 2%
 
 Beta 환경에서 [!UICONTROL DCS]에 액세스하려면 다음을 수행하십시오.
 
-1. [!UICONTROL DCS] [!DNL curl]command[을(를) 사용하여 &#x200B;](https://curl.haxx.se/docs/manpage.html)을(를) 호출합니다. [!DNL Curl]은(는) 지원되는 여러 프로토콜 중 하나를 사용하여 서버에서 또는 서버로 데이터를 전송하는 도구입니다.
+1. [!DNL curl] [command](https://curl.haxx.se/docs/manpage.html)을(를) 사용하여 [!UICONTROL DCS]을(를) 호출합니다. [!DNL Curl]은(는) 지원되는 여러 프로토콜 중 하나를 사용하여 서버에서 또는 서버로 데이터를 전송하는 도구입니다.
 
    예: `curl -v https://dcs-beta.demdex.net/event`
 

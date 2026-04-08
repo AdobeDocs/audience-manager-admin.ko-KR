@@ -5,9 +5,12 @@ seo-title: File Format Macros
 title: 파일 형식 매크로
 uuid: f91c91b6-6581-4ed7-8d7f-f8532bd41df9
 exl-id: e686bc33-da3e-49a9-8c71-2bc6ca399bfb
-source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
+TQID: https://experienceleague.adobe.com/ATzqYmfRIVDeQ3DZpbcZkCP4Jjsapw9Nfyli1QFR8-o
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: 686
 ht-degree: 1%
 
 ---
@@ -186,7 +189,7 @@ ht-degree: 1%
      <li id="li_859E1F4F21D645519F150DC512B3EB1A"> <code>type</code>: 숫자 ID로 식별되는 트레이트 유형입니다. 이 변수는 다음을 반환합니다. 
       <ul id="ul_C9839266783D42CCADAAC3FEA33BE4D7"> 
        <li id="li_6996A218E3F04EC3BC70032559DD87FC"> DPM 특성(오프라인, 인바운드 작업에 의해 온보딩된)을 식별하는 <code>10</code>. </li> 
-       <li id="li_831FF929BF50434C8804C13E5786DF79"> <code>3</code> DCS <span class="wintitle">을(를) 통해 온보딩된 규칙 기반 특성(실시간, 실시간)을 식별하는 </span>. </li> 
+       <li id="li_831FF929BF50434C8804C13E5786DF79"> <span class="wintitle"> DCS </span>을(를) 통해 온보딩된 규칙 기반 특성(실시간, 실시간)을 식별하는 <code>3</code>. </li> 
       </ul> </li> 
      <li id="li_E84D6BC80AEE4F10963C9882C4151ED4"> <code>traitId</code>: 트레이트 ID. </li> 
      <li id="li_D30A849BA35248E6B9110FA3ADEFC332"> <code>lastRealized</code>: 트레이트가 마지막으로 실현된 시간입니다. Unix 타임스탬프. </li> 
