@@ -5,9 +5,11 @@ seo-title: HTTP Format Macros
 title: HTTP 형식 매크로
 uuid: 91021f60-75d0-4b1d-86ca-91c9dadafac1
 exl-id: 80ed24ac-1b84-4c1b-966f-039b587ea899
-source-git-commit: cfc3396843592d80b017471a0e88cf335a5f81e0
+TQID: https://experienceleague.adobe.com/5j4Tq2P-dNGLa-yLSm8EY8xQWg7MBR9ggzdUi0oBMBQ
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: 394
 ht-degree: 2%
 
 ---
@@ -90,7 +92,7 @@ ht-degree: 2%
   <tr> 
    <td colname="col1"> <p> <code>REGION_ID_LIST</code> </p> </td> 
    <td colname="col2"> <p> <code>GET</code> </p> </td> 
-   <td colname="col3"> <p>활동이 시작된 <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-regions.html?lang=ko"> Audience Manager DCS 지역 </a>.</p> </td> 
+   <td colname="col3"> <p>활동이 시작된 <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-regions.html?lang=en"> Audience Manager DCS 지역 </a>.</p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>REMOVED_SEGMENT_LIST</code> </p> </td> 

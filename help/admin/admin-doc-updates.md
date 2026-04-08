@@ -5,10 +5,14 @@ seo-title: Documentation Updates
 title: 설명서 업데이트
 uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
 exl-id: 8221b4df-99c2-47d3-a2ea-186a701a2b20
-source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
+TQID: https://experienceleague.adobe.com/QQHJ9VBxkF-pMFYIvgny6JJRS38Q-3nXD1kSzWdGJxQ
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: baaa0dd2-d27e-4921-aae3-7888623a5fa5id: c814092e-2730-45e8-a12d-e084529f52cb
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '583'
-ht-degree: 94%
+source-wordcount: 644
+ht-degree: 88%
 
 ---
 
@@ -16,7 +20,7 @@ ht-degree: 94%
 
 Audience Manager 관리 가이드에 대한 날짜별 모든 업데이트(추가, 삭제 및 수정 사항)입니다.
 
-기능 릴리스, 개선 사항 및 버그 수정에 대한 자세한 내용은 [Experience Cloud 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko)를 참조하십시오. [!DNL Audience Manager] 설명서 변경 내용에 대해서는 [설명서 업데이트](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=ko)를 참조하세요.
+기능 릴리스, 개선 사항 및 버그 수정에 대한 자세한 내용은 [Experience Cloud 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)를 참조하십시오. [!DNL Audience Manager] 설명서 변경 내용에 대해서는 [설명서 업데이트](https://experienceleague.adobe.com/docs/audience-manager/user-guide/documentation-updates/docs-2019.html?lang=en)를 참조하세요.
 
 ## AAM 2019 설명서 업데이트 {#aam-2019-docs-updates}
 
@@ -100,7 +104,7 @@ Audience Manager 관리 가이드에 대한 날짜별 모든 업데이트(추가
   </tr> 
   <tr> 
    <td colname="col1"> <p><a href="admin-oauth2/aam-admin-api-requirements.md#concept_A7FAC9443CF34974A873E6B787616421"> API 요구 사항 및 권장 사항</a> </p> </td> 
-   <td colname="col2"> <p>고객을 파악하고 고객에게 전달해야 하는 일부 요구 사항과 권장 사항을 설명하는 새 설명서입니다. 동일한 제목과 다른 읽기 대상자의 변경 사항이 있는 공개 문서에 복제됩니다. 공개 문서에서 <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=ko#api-requirements-recommendations" format="https" scope="external">API 요구 사항 및 권장 사항</a>을 참조하십시오. </p> </td> 
+   <td colname="col2"> <p>고객을 파악하고 고객에게 전달해야 하는 일부 요구 사항과 권장 사항을 설명하는 새 설명서입니다. 동일한 제목과 다른 읽기 대상자의 변경 사항이 있는 공개 문서에 복제됩니다. 공개 문서에서 <a href="https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=en#api-requirements-recommendations" format="https" scope="external">API 요구 사항 및 권장 사항</a>을 참조하십시오. </p> </td> 
   </tr> 
  </tbody> 
 </table>

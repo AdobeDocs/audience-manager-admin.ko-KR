@@ -5,9 +5,13 @@ seo-title: Create or Edit a Format
 title: 형식 만들기 또는 편집
 uuid: ca1b1feb-bcd3-4a41-b1e8-80565f6c23ae
 exl-id: 3c97d1e9-8093-4181-a1fd-fb1816cdaa3d
-source-git-commit: 1f4dbf8f7b36e64c3015b98ef90b6726d0e7495a
+TQID: https://experienceleague.adobe.com/VMEOfWNeQ5CSWvWqZYdjNO4qyvFD5Iw1onpAdVRKgQQ
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: 439
 ht-degree: 1%
 
 ---
@@ -43,7 +47,7 @@ Audience Manager 관리 도구의 [!UICONTROL Formats] 페이지를 사용하여
    * **[!UICONTROL Data Row]:** 파일의 각 아웃바운드 행에 표시되는 텍스트를 지정합니다.
    * **[!UICONTROL Maximum File Size (In MB)]:** 데이터 전송 파일의 최대 파일 크기를 지정합니다. 압축된 파일은 100MB보다 작아야 합니다. 압축되지 않은 파일 크기에는 제한이 없습니다.
    * **[!UICONTROL Compression]:** 데이터 파일에 대해 원하는 압축 유형(gz 또는 zip)을 선택합니다. [!UICONTROL AWS S3]&#x200B;(으)로 배달하려면 .gz 또는 압축되지 않은 파일을 사용해야 합니다.
-   * **[!UICONTROL .info Receipt]:** 전송 제어([!DNL .info]) 파일이 생성되도록 지정합니다. [!DNL .info] 파일은 파트너가 Audience Manager에서 파일 전송을 올바르게 처리했는지 확인할 수 있도록 파일 전송에 대한 메타데이터 정보를 제공합니다. 자세한 내용은 [로그 파일 전송을 위한 전송 제어 파일](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/transfer-control-files.html?lang=ko)을 참조하십시오.
+   * **[!UICONTROL .info Receipt]:** 전송 제어([!DNL .info]) 파일이 생성되도록 지정합니다. [!DNL .info] 파일은 파트너가 Audience Manager에서 파일 전송을 올바르게 처리했는지 확인할 수 있도록 파일 전송에 대한 메타데이터 정보를 제공합니다. 자세한 내용은 [로그 파일 전송을 위한 전송 제어 파일](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/receiving-audience-data/batch-outbound-data-transfers/transfer-control-files.html?lang=en)을 참조하십시오.
    * **[!UICONTROL MD5 Checksum Receipt]:** [!DNL MD5] 체크섬 확인을 생성하도록 지정합니다. 파트너가 Audience Manager에서 전체 전송을 올바르게 처리했는지 확인할 수 있도록 [!DNL MD5] 체크섬 확인을 수행합니다.
 
 1. (조건부) **[!UICONTROL HTTP]**&#x200B;을(를) 선택한 경우 다음 필드를 채웁니다.
@@ -57,5 +61,5 @@ Audience Manager 관리 도구의 [!UICONTROL Formats] 페이지를 사용하여
 ## 형식 삭제 {#delete-format}
 
 1. **[!UICONTROL Formats]** 아이콘을 클릭합니다.
-2. 원하는 형식의 ![](assets/icon_delete.png) 열에서 **[!UICONTROL Actions]**&#x200B;을(를) 클릭합니다.
+2. 원하는 형식의 **[!UICONTROL Actions]** 열에서 ![](assets/icon_delete.png)을(를) 클릭합니다.
 3. **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 삭제를 확인합니다.

@@ -5,9 +5,11 @@ seo-title: Manage Company Users
 title: 회사 사용자 관리
 uuid: 32c8a4e1-c29c-44d2-8cd4-f4f1be707492
 exl-id: a2c5fd10-699f-4a0d-acec-f46811140e48
-source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
+TQID: https://experienceleague.adobe.com/hr8y9o-ghVHBh-O-7w0MtTV2yoXIpqc0BvLf8CSzpN8
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: 272
 ht-degree: 2%
 
 ---
@@ -48,5 +50,5 @@ ht-degree: 2%
 사용자를 삭제하려면 다음을 수행하십시오.
 
 1. **[!UICONTROL Companies]**&#x200B;을(를) 클릭하고 원하는 회사를 찾아 클릭한 다음 **[!UICONTROL Users]** 탭을 클릭합니다.
-1. 원하는 사용자의 ![](assets/icon_delete.png) 열에서 **[!UICONTROL Actions]**&#x200B;을(를) 클릭합니다.
+1. 원하는 사용자의 **[!UICONTROL Actions]** 열에서 ![](assets/icon_delete.png)을(를) 클릭합니다.
 1. **[!UICONTROL OK]**&#x200B;을(를) 클릭하여 삭제를 확인합니다.

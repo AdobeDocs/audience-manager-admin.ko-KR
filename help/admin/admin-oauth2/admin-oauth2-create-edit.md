@@ -5,16 +5,19 @@ seo-title: OAuth2 Clients
 title: OAuth2 클라이언트
 uuid: 3e654053-fb2f-4d8f-a53c-b5c3b8dbdaaa
 exl-id: 993eae04-02e8-4554-a6fe-cf599053bfc9
-source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
+TQID: https://experienceleague.adobe.com/8thJUCb1zoj8trr-6Zw4Uyq89KvJcw2xb8dRz8W7oVE
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: 572
 ht-degree: 1%
 
 ---
 
 # OAuth2 클라이언트 {#oauth-clients}
 
-[!UICONTROL OAuth2 Clients] 구성에서 [!UICONTROL OAuth2] 클라이언트 목록을 보려면 [!DNL Audience Manager] 페이지를 사용하십시오. 적절한 사용자 역할이 할당되면 기존 클라이언트를 편집 또는 삭제하거나 새 클라이언트를 만들 수 있습니다.
+[!DNL Audience Manager] 구성에서 [!UICONTROL OAuth2] 클라이언트 목록을 보려면 [!UICONTROL OAuth2 Clients] 페이지를 사용하십시오. 적절한 사용자 역할이 할당되면 기존 클라이언트를 편집 또는 삭제하거나 새 클라이언트를 만들 수 있습니다.
 
 ## 개요 {#overview}
 
@@ -22,7 +25,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->고객이 Audience Manager 사용 안내서의 [OAuth2](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=ko#oauth) 설명서를 읽는지 확인하십시오.
+>고객이 Audience Manager 사용 안내서의 [OAuth2](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html#oauth) 설명서를 읽는지 확인하십시오.
 
 [!DNL OAuth2]은(는) 리소스 소유자를 대신하여 [!DNL Audience Manager] 리소스에 대한 보안 위임된 액세스를 제공하기 위한 인증 개방형 표준입니다.
 
@@ -36,7 +39,7 @@ ht-degree: 1%
 
 <!-- t_create_edit_auth.xml -->
 
-Audience Manager [!UICONTROL OAuth2 Clients] 도구의 [!UICONTROL Admin] 페이지를 사용하여 새 [!UICONTROL Oauth2] 클라이언트를 만들거나 기존 클라이언트를 편집합니다.
+Audience Manager [!UICONTROL Admin] 도구의 [!UICONTROL OAuth2 Clients] 페이지를 사용하여 새 [!UICONTROL Oauth2] 클라이언트를 만들거나 기존 클라이언트를 편집합니다.
 
 1. 새 [!UICONTROL OAuth2] 클라이언트를 만들려면 **[!UICONTROL OAuth2 Clients]** > **[!UICONTROL Add OAuth2 Client]**&#x200B;을(를) 클릭합니다. 기존 [!UICONTROL OAuth2] 클라이언트를 편집하려면 **[!UICONTROL Client ID]** 열에서 원하는 클라이언트를 클릭합니다.
 1. 이 [!UICONTROL OAuth2] 클라이언트에 대해 원하는 이름을 지정하십시오. 이 이름은 레코드에 대해서만 사용됩니다.
@@ -52,7 +55,7 @@ Audience Manager [!UICONTROL OAuth2 Clients] 도구의 [!UICONTROL Admin] 페이
    * **[!UICONTROL Password]**: 사용자가 인증 서버를 통한 자동 유효성 검사 시도 대신 사용자가 입력한 암호로 인증되었습니다.
    * **[!UICONTROL Refresh_token]**: 만료된 액세스 토큰을 장기간 새로 고치는 데 사용됩니다.
 
-1. **[!UICONTROL Redirect URI]** 상자에서 원하는 [!DNL URI]을(를) 지정합니다. 이 옵션은 **[!UICONTROL Implicit]** 및 **[!UICONTROL Authorization_code]** 부여 유형을 선택한 경우에만 활성화됩니다. **[!UICONTROL Redirect URI]** 상자를 사용하면 허용되는 [!DNL URI] 값을 쉼표로 구분한 값을 지정할 수 있습니다. [!DNL URI] 액세스를 위해 클라이언트를 승인한 후 클라이언트의 [!DNL API] 사용자가 리디렉션됩니다.
+1. **[!UICONTROL Redirect URI]** 상자에서 원하는 [!DNL URI]을(를) 지정합니다. 이 옵션은 **[!UICONTROL Implicit]** 및 **[!UICONTROL Authorization_code]** 부여 유형을 선택한 경우에만 활성화됩니다. **[!UICONTROL Redirect URI]** 상자를 사용하면 허용되는 [!DNL URI] 값을 쉼표로 구분한 값을 지정할 수 있습니다. [!DNL API] 액세스를 위해 클라이언트를 승인한 후 클라이언트의 [!DNL URI] 사용자가 리디렉션됩니다.
 1. 액세스 및 새로 고침 토큰 만료에 대해 원하는 만료 시간(초)을 지정합니다.
 
    * **[!UICONTROL Access Token Expiration Time]**: 액세스 토큰이 발급된 후 유효한 시간(초)입니다. 플랫폼 기본값(12시간)을 사용하려면 null일 수 있습니다. 또한 액세스 토큰이 만료되지 않았음을 나타내는 -1일 수도 있습니다.
@@ -60,7 +63,7 @@ Audience Manager [!UICONTROL OAuth2 Clients] 도구의 [!UICONTROL Admin] 페이
 
 1. **[!UICONTROL Save]** 아이콘을 클릭합니다.
 
-[!UICONTROL OAuth2] 클라이언트를 삭제하려면 **[!UICONTROL OAuth2 Clients]**&#x200B;을(를) 클릭한 다음 ![](assets/icon_delete.png) 열의 **[!UICONTROL Actions]**&#x200B;을(를) 클릭하여 원하는 클라이언트를 찾습니다.
+[!UICONTROL OAuth2] 클라이언트를 삭제하려면 **[!UICONTROL OAuth2 Clients]**&#x200B;을(를) 클릭한 다음 **[!UICONTROL Actions]** 열의 ![](assets/icon_delete.png)을(를) 클릭하여 원하는 클라이언트를 찾습니다.
 
 >[!MORELIKETHIS]
 >
