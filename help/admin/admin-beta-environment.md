@@ -52,7 +52,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->[!DNL FTP/SFTP]의 사용을 막고 [!UICONTROL Amazon S3]의 사용을 장려합니다. [!UICONTROL Amazon S3]의 사용을 권장하는 이유는 [Amazon S3:About](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html)에 나와 있습니다.
+>[!DNL FTP/SFTP]의 사용을 막고 [!UICONTROL Amazon S3]의 사용을 장려합니다. [!UICONTROL Amazon S3]의 사용을 권장하는 이유는 [Amazon S3:About](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/amazon-s3.html?lang=ko)에 나와 있습니다.
 
 ## Beta 환경의 DCS에 액세스 {#access-dcs-beta-environment}
 

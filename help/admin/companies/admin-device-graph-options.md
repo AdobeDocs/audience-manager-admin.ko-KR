@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ### Co-op 장치 그래프 {#co-op-graph}
 
-[Adobe Experience Cloud Device Co-op](https://experienceleague.adobe.com/docs/device-co-op/using/about/overview.html?lang=en)에 참여하는 고객은 이러한 옵션을 사용하여 [결정론적 및 확률론적 데이터](https://experienceleague.adobe.com/docs/device-co-op/using/device-graph/links.html?lang=en)를 사용하는 [!UICONTROL Profile Merge Rule]을(를) 만듭니다. [!DNL Corporate Provisioning Team]은(는) 백 엔드 [!DNL API] 호출을 통해 이 옵션을 활성화하고 비활성화합니다. [!DNL Admin UI]에서 이 상자를 선택하거나 지울 수 없습니다. 또한 **[!UICONTROL Co-op Device Graph]** 및 **[!UICONTROL Company Device Graph]** 옵션은 함께 사용할 수 없습니다. 고객은 둘 중 하나를 활성화하도록 요청할 수 있지만 둘 다 활성화하지는 않습니다. 이 옵션을 선택하면 [!UICONTROL Profile Merge Rule]에 대한 [!UICONTROL Device Options] 설정의 **[!UICONTROL Co-op Device Graph]** 컨트롤이 표시됩니다.
+[Adobe Experience Cloud Device Co-op](https://experienceleague.adobe.com/docs/device-co-op/using/about/overview.html?lang=ko)에 참여하는 고객은 이러한 옵션을 사용하여 [결정론적 및 확률론적 데이터](https://experienceleague.adobe.com/docs/device-co-op/using/device-graph/links.html?lang=ko)를 사용하는 [!UICONTROL Profile Merge Rule]을(를) 만듭니다. [!DNL Corporate Provisioning Team]은(는) 백 엔드 [!DNL API] 호출을 통해 이 옵션을 활성화하고 비활성화합니다. [!DNL Admin UI]에서 이 상자를 선택하거나 지울 수 없습니다. 또한 **[!UICONTROL Co-op Device Graph]** 및 **[!UICONTROL Company Device Graph]** 옵션은 함께 사용할 수 없습니다. 고객은 둘 중 하나를 활성화하도록 요청할 수 있지만 둘 다 활성화하지는 않습니다. 이 옵션을 선택하면 [!UICONTROL Profile Merge Rule]에 대한 [!UICONTROL Device Options] 설정의 **[!UICONTROL Co-op Device Graph]** 컨트롤이 표시됩니다.
 
 ![](assets/adminUI1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
 이 옵션은 [!DNL Analytics] 보고서 세트에서 [!UICONTROL People] 지표를 사용하는 [!DNL Analytics] 고객을 위한 것입니다. [!DNL Corporate Provisioning Team]은(는) 백 엔드 [!DNL API] 호출을 통해 이 옵션을 활성화하고 비활성화합니다. [!DNL Admin UI]에서 이 상자를 선택하거나 지울 수 없습니다. 또한 **[!UICONTROL Company Device Graph]** 및 **[!UICONTROL Co-op Device Graph]** 옵션은 함께 사용할 수 없습니다. 고객은 둘 중 하나를 활성화하도록 요청할 수 있지만 둘 다 활성화하지는 않습니다. 확인 시:
 
 * 이 장치 그래프는 구성할 회사에 속하는 결정론적 데이터를 사용합니다(확률론적 데이터 없음).
-* [!DNL Audience Manager]이(가) `*`파트너 이름`*-Company Device Graph-Person`이라는 [!UICONTROL Data Source]을(를) 자동으로 만듭니다. [!UICONTROL Data Source] 세부 정보 페이지에서 [!DNL Audience Manager] 고객은 파트너 이름, 설명을 변경하고 이 데이터 원본에 [데이터 내보내기 제어](https://experienceleague.adobe.com/docs/device-co-op/using/device-graph/links.html?lang=en)를 적용할 수 있습니다.
+* [!DNL Audience Manager]이(가) `*`파트너 이름`*-Company Device Graph-Person`이라는 [!UICONTROL Data Source]을(를) 자동으로 만듭니다. [!UICONTROL Data Source] 세부 정보 페이지에서 [!DNL Audience Manager] 고객은 파트너 이름, 설명을 변경하고 이 데이터 원본에 [데이터 내보내기 제어](https://experienceleague.adobe.com/docs/device-co-op/using/device-graph/links.html?lang=ko)를 적용할 수 있습니다.
 * [!DNL Audience Manager] 고객 *새 설정을 [!UICONTROL Profile Merge Rule]에 대한 [!UICONTROL Device Options] 섹션에서 볼 수 없음*.
 
 ### LiveRamp 장치 그래프(개인 또는 세대) {#liveramp-device-graph}
@@ -53,5 +53,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [정의된 프로필 병합 규칙 옵션](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-definitions.html?lang=en)
->* [데이터 Source 설정 및 메뉴 옵션](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en)
+>* [정의된 프로필 병합 규칙 옵션](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-definitions.html?lang=ko)
+>* [데이터 Source 설정 및 메뉴 옵션](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=ko)

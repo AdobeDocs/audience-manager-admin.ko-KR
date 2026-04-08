@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->고객이 Audience Manager 사용 안내서의 [OAuth2](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html#oauth) 설명서를 읽는지 확인하십시오.
+>고객이 Audience Manager 사용 안내서의 [OAuth2](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-getting-started.html?lang=ko#oauth) 설명서를 읽는지 확인하십시오.
 
 [!DNL OAuth2]은(는) 리소스 소유자를 대신하여 [!DNL Audience Manager] 리소스에 대한 보안 위임된 액세스를 제공하기 위한 인증 개방형 표준입니다.
 
