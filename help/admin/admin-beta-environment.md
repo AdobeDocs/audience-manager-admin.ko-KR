@@ -7,9 +7,13 @@ title: Beta 환경
 uuid: 6a253f4e-96e7-4395-a783-a8eb213b7daf
 exl-id: 78d5a1ff-c016-4366-ba34-9814a0d92067
 TQID: https://experienceleague.adobe.com/Y6hON41v53cSXtuTYMW8UMgimwyewWHvfcBvMYDnBa4
-product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
 source-wordcount: 366
@@ -28,9 +32,9 @@ ht-degree: 2%
 | 서비스 | URL/호스트 이름 | 프로비저닝 단계 |
 |--- |--- |--- |
 | S3 | | [Amazon S3 버킷 프로비전](admin-beta-environment.md#provision-s3-buckets)을 참조하십시오. |
-| DCS | https&amp;colon;//dcs-beta.demdex.net/... | 우리 쪽에서 별도의 단계는 필요하지 않습니다. [Beta 환경에서 DCS에 액세스](admin-beta-environment.md#access-dcs-beta-environment)를 참조하십시오. |
-| UI | https&amp;colon;//bank-beta.demdex.com | 데이터는 매월 프로덕션에서 Beta 환경으로 복사됩니다. 프로덕션 자격 증명은 Beta에 유효합니다. |
-| API | https&amp;colon;//api-beta.demdex.com/... | 데이터는 매월 프로덕션에서 Beta 환경으로 복사됩니다. 프로덕션 자격 증명은 Beta에 유효합니다. |
+| DCS | https&colon;//dcs-beta.demdex.net/... | 우리 쪽에서 별도의 단계는 필요하지 않습니다. [Beta 환경에서 DCS에 액세스](admin-beta-environment.md#access-dcs-beta-environment)를 참조하십시오. |
+| UI | https&colon;//bank-beta.demdex.com | 데이터는 매월 프로덕션에서 Beta 환경으로 복사됩니다. 프로덕션 자격 증명은 Beta에 유효합니다. |
+| API | https&colon;//api-beta.demdex.com/... | 데이터는 매월 프로덕션에서 Beta 환경으로 복사됩니다. 프로덕션 자격 증명은 Beta에 유효합니다. |
 
 ## Amazon S3 버킷 프로비저닝 {#provision-s3-buckets}
 
