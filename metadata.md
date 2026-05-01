@@ -1,16 +1,17 @@
 ---
 cloud: Experience Cloud
 solution: Audience Manager
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
 feature-set: Audience Manager
 landing-page-name: audience-manager
 landing-page-breadcrumb-title: Audience Manager
 getting-started-title: Getting Started
-git-repo: https://git.corp.adobe.com/AdobeDocs/audience-manager-admin.ko-KR
+git-repo: https://git.corp.adobe.com/AdobeDocs/audience-manager-admin.en
 index: false
 hide: true
-source-git-commit: 015457f574638c3ba2cfc11f8780e5af6111d89a
+source-git-commit: 9dc7b69c91ab9fec077a0d92f4b75319800c6ed4
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: 126
 ht-degree: 0%
 
 ---
