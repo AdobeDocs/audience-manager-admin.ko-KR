@@ -8,22 +8,22 @@ exl-id: a2e73613-07cd-4ab8-8c6e-be451ed50bfc
 TQID: https://experienceleague.adobe.com/-MWpMACN0bFPIRAWejD0-VV5nG8BGAukmV1QXxXal-E
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
+    internal-label: Destinations
 source-git-commit: d2bed13a6ac7d38ae79b65d492b6de0ca6b6d488
 workflow-type: tm+mt
-source-wordcount: 1101
+source-wordcount: '1133'
 ht-degree: 0%
-
 ---
-
 # 회사 대상 관리 {#manage-company-destinations}
 
 Audience Manager 대상 만들기, 편집 및 삭제
 
 <!-- t_company_destinations.xml -->
 
-자세한 내용은 *Audience Manager 사용 안내서*&#x200B;의 [대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=ko)을 참조하세요.
+자세한 내용은 *Audience Manager 사용 안내서*&#x200B;의 [대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)을 참조하세요.
 
 ## 회사 대상 만들기 또는 편집 {#create-edit-company-destinations}
 
@@ -48,13 +48,13 @@ Audience Manager 대상 만들기, 편집 및 삭제
 * **[!UICONTROL Name]:**(필수) 이 대상의 이름을 지정합니다.
 * **[!UICONTROL Description]:** 이 대상에 대한 설명 정보를 지정합니다.
 * **[!UICONTROL Type]:**(필수) 원하는 대상 유형을 선택합니다.
-   * **[!UICONTROL Bulk ID]**: 다른 플랫폼 간에 ID를 동기화합니다.
-   * **[!UICONTROL Bulk Trait]**: 다른 플랫폼에 트레이트 정보를 일괄적으로 보냅니다.
-   * **[!UICONTROL Bulk Segment]**: 다른 플랫폼에 세그먼트 정보를 일괄적으로 보냅니다.
-   * **[!UICONTROL S2S]**: 서버 간 대상을 사용하여 실시간 및 일괄 처리 데이터를 다른 플랫폼으로 보냅니다.
+  * **[!UICONTROL Bulk ID]**: 다른 플랫폼 간에 ID를 동기화합니다.
+  * **[!UICONTROL Bulk Trait]**: 다른 플랫폼에 트레이트 정보를 일괄적으로 보냅니다.
+  * **[!UICONTROL Bulk Segment]**: 다른 플랫폼에 세그먼트 정보를 일괄적으로 보냅니다.
+  * **[!UICONTROL S2S]**: 서버 간 대상을 사용하여 실시간 및 일괄 처리 데이터를 다른 플랫폼으로 보냅니다.
 * **[!UICONTROL Auto-Fill Destination Mapping]:**([!UICONTROL S2S]만 해당) 옵션 선택:
-   * **[!UICONTROL Segment ID]:** 이 설정을 선택하면 대상 값 매핑이 [!DNL Audience Manager] 세그먼트 ID로 채워집니다.
-   * **[!UICONTROL Integration Code Value]:** 이 설정을 선택하면 대상 값 매핑이 [!DNL Audience Manager] 세그먼트 통합 코드로 채워집니다.
+  * **[!UICONTROL Segment ID]:** 이 설정을 선택하면 대상 값 매핑이 [!DNL Audience Manager] 세그먼트 ID로 채워집니다.
+  * **[!UICONTROL Integration Code Value]:** 이 설정을 선택하면 대상 값 매핑이 [!DNL Audience Manager] 세그먼트 통합 코드로 채워집니다.
 * **[!UICONTROL User ID Key]:**(필수) 드롭다운 목록에서 이 대상에 대해 원하는 사용자 ID 키를 선택합니다.
 
 이 ID는 마스터 데이터 소스 ID로 사용됩니다. 파일에서 아웃바운드 사용자 ID를 결정합니다.
@@ -63,7 +63,7 @@ Audience Manager 대상 만들기, 편집 및 삭제
 >
 >[!UICONTROL Bulk ID] 대상 형식의 경우 [!DNL Audience Manager] [!UICONTROL User ID] 또는 [!DNL Adobe Experience Cloud] ID를 사용할 수 없습니다.
 
-데이터 원본 ID([!UICONTROL DPID])가 드롭다운 목록에 표시되지 않으면 [데이터 Source 설정 페이지](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=ko)의 데이터 원본 수준에서 **[!UICONTROL Outbound]** 확인란을 선택해야 합니다.
+데이터 원본 ID([!UICONTROL DPID])가 드롭다운 목록에 표시되지 않으면 [데이터 Source 설정 페이지](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html)의 데이터 원본 수준에서 **[!UICONTROL Outbound]** 확인란을 선택해야 합니다.
 
 * **[!UICONTROL Target Data Source]:**(필수) 드롭다운 목록에서 이 대상에 대해 원하는 데이터 원본을 선택하십시오. 이 설정을 사용하면 아웃바운드 데이터의 레이블을 지정할 수 있으므로 클라이언트 측에서 별도의 시스템으로 수집할 수 있습니다.
 * **[!UICONTROL Foreign Account ID]:** 이 대상에 대한 외부 계정 ID를 지정하십시오. 이는 아웃바운드 데이터에 대한 수신자 시스템의 식별 값입니다.
@@ -85,9 +85,9 @@ Audience Manager 대상 만들기, 편집 및 삭제
 [!UICONTROL Bulk ID], [!UICONTROL Bulk Trait] 또는 [!UICONTROL Bulk Segment] 대상의 경우 아래 필드를 채우십시오.
 
 * **[!UICONTROL Protocol]**: (필수) 드롭다운 목록에서 이 대상에 대해 원하는 프로토콜을 선택합니다.
-   * **[!UICONTROL FTP]**
-   * **[!UICONTROL HTTP]**
-   * **[!UICONTROL S3]**
+  * **[!UICONTROL FTP]**
+  * **[!UICONTROL HTTP]**
+  * **[!UICONTROL S3]**
 * **[!UICONTROL Servers]**: (필수) 드롭다운 목록에서 이 대상에 대해 원하는 서버를 선택합니다.
 * **[!UICONTROL Format]**: (필수) 위에서 선택한 프로토콜에 따라 드롭다운 목록에서 이 대상에 대해 원하는 형식을 선택하십시오. [!DNL HTTP] 또는 파일 형식.
 * **[!UICONTROL Sync Type]**: (필수) 이 대상에 대해 원하는 동기화 유형을 선택합니다. 이는 클라이언트가 아웃바운드 주문에 포함할 사용자 활동 수준을 나타냅니다. 클라이언트가 해당 속성의 세그먼트 자격 분석에만 관심이 있는 경우 **[!UICONTROL Customer]**&#x200B;을(를) 선택합니다. 모든 [!DNL Audience Manager] 고객에 대해 오프사이트 활동의 세그먼트 자격을 포함하려면 **[!UICONTROL Platform]**&#x200B;을(를) 선택하십시오.
